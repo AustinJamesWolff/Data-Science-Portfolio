@@ -12,4 +12,4 @@ So my goal was to analyze the Pearson Correlation Coefficients to determine just
 
 ___
 
-### The "Movie Data.zip" file contains 3 different csv files. "Comprehensive IMDb Data.csv" is the most complete and should be used. The other two are simply there for proof of feature engineering (relevant only to recruiters).
+The "Movie Data.zip" file contains 3 different csv files. "Comprehensive IMDb Data.csv" is the most complete and should be used. The other two are simply there for proof of feature engineering (relevant only to recruiters).
