@@ -2,6 +2,8 @@
 
 *Tools Used: Python, Jupyter Notebook, Pandas, Dask, SciPy, Matplotlib, Seaborn, Scikit-learn, DataPrep*
 
+**[Click here to access the notebook.](https://github.com/AustinJamesWolff/Data-Science-Portfolio/blob/main/Box%20Office%20Correlation/Box%20Office%20Correlation.ipynb)**
+
 When asked how movie executives know if their movie would make money or not, Hollywood-legend William Goldman once said,
 
 "Nobody knows anything."
