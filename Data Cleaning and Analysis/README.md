@@ -3,3 +3,5 @@ A collection of actual business projects I worked on by cleaning, analyzing, and
 
 ## Contents
 * __CRM Data__: Cleaning and fixing a previously unknown number of corrupted leads in a company's CRM.
+
+## Changes: Disabled .head() in preview
